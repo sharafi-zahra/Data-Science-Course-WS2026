@@ -1,0 +1,9 @@
+# This repo is scoped to the "Session *" folders only (agenda docs, time plan, and
+# "Other Materials" stay local/private -- see the sync script for how staging works).
+
+# Common junk to exclude wherever it appears inside Session folders
+**/__pycache__/
+**/.ipynb_checkpoints/
+**/.venv/
+**/.DS_Store
+**/*.pyc
