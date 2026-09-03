@@ -7,3 +7,6 @@
 **/.venv/
 **/.DS_Store
 **/*.pyc
+
+# Exercise-answer notebooks stay private, in every session, not just this one
+**/*Exercise Answers*.ipynb
