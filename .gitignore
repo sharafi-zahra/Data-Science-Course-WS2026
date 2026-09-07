@@ -10,3 +10,7 @@
 
 # Exercise-answer notebooks stay private, in every session, not just this one
 **/*Exercise Answers*.ipynb
+
+# Student personal data -- never goes to a public repo
+Team members*.xlsx
+~$*
